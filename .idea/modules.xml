@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello_World/Hello_World.iml" filepath="$PROJECT_DIR$/Hello_World/Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-basics/algorithm-basics.iml" filepath="$PROJECT_DIR$/algorithm-basics/algorithm-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayPractice/arrayPractice.iml" filepath="$PROJECT_DIR$/arrayPractice/arrayPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayPracticeTwo/arrayPracticeTwo.iml" filepath="$PROJECT_DIR$/arrayPracticeTwo/arrayPracticeTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayTest/arrayTest.iml" filepath="$PROJECT_DIR$/arrayTest/arrayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayTestTwo/arrayTestTwo.iml" filepath="$PROJECT_DIR$/arrayTestTwo/arrayTestTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computerComposition/computerComposition.iml" filepath="$PROJECT_DIR$/computerComposition/computerComposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/greatest-common-denominator/greatest-common-denominator.iml" filepath="$PROJECT_DIR$/greatest-common-denominator/greatest-common-denominator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groceryPrices/groceryPrices.iml" filepath="$PROJECT_DIR$/groceryPrices/groceryPrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeComposition/homeComposition.iml" filepath="$PROJECT_DIR$/homeComposition/homeComposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/java-basics.iml" filepath="$PROJECT_DIR$/java-basics/java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoApplication/src/main/main.iml" filepath="$PROJECT_DIR$/demoApplication/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/makeCopies/makeCopies.iml" filepath="$PROJECT_DIR$/makeCopies/makeCopies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shippingPrices/shippingPrices.iml" filepath="$PROJECT_DIR$/shippingPrices/shippingPrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoApplication/src/test/test.iml" filepath="$PROJECT_DIR$/demoApplication/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables-one/variables-one.iml" filepath="$PROJECT_DIR$/variables-one/variables-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables-two/variables-two.iml" filepath="$PROJECT_DIR$/variables-two/variables-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables_three/variables_three.iml" filepath="$PROJECT_DIR$/variables_three/variables_three.iml" />
+    </modules>
+  </component>
+</project>

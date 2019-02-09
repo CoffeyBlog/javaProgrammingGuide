@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4a3e347-e4d8-4712-ba08-1d3e18d79039" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Hello_World/Hello_World.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hello_World/Hello_World.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-basics/algorithm-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-basics/algorithm-basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayPractice/arrayPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arrayPractice/arrayPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayPracticeTwo/arrayPracticeTwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arrayPracticeTwo/arrayPracticeTwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayTest/arrayTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arrayTest/arrayTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrayTestTwo/arrayTestTwo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/arrayTestTwo/arrayTestTwo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/computerComposition/computerComposition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/computerComposition/computerComposition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greatest-common-denominator/greatest-common-denominator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/greatest-common-denominator/greatest-common-denominator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/groceryPrices/groceryPrices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/groceryPrices/groceryPrices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeComposition/homeComposition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homeComposition/homeComposition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basics/java-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basics/java-basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/makeCopies/makeCopies.iml" beforeDir="false" afterPath="$PROJECT_DIR$/makeCopies/makeCopies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shippingPrices/shippingPrices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/shippingPrices/shippingPrices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables-one/variables-one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/variables-one/variables-one.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables-two/variables-two.iml" beforeDir="false" afterPath="$PROJECT_DIR$/variables-two/variables-two.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables_three/variables_three.iml" beforeDir="false" afterPath="$PROJECT_DIR$/variables_three/variables_three.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-601460071">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="22" />
+    <option name="width" value="1732" />
+    <option name="height" value="924" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Clojure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a3e347-e4d8-4712-ba08-1d3e18d79039" name="Default Changelist" comment="" />
+      <created>1549661480925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549661480925</updated>
+      <workItem from="1549661485247" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="58" y="22" width="1732" height="924" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.16390532" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.3286052" />
+      <window_info anchor="right" id="Leiningen" />
+      <window_info anchor="right" id="REPL" side_tool="true" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32974717" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32974717" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32974717" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.24959655" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="10" visible="true" weight="0.3295858" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (projects) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
